@@ -1,2 +1,2 @@
 # Simple-Api-Creates
-apna college
+apna college(reshma doke)
